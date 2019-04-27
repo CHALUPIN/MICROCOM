@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#bienvenidos h3,h4 {
+	text-align:center;
+	
+	
+}
+
+
+#bienvenidos .contenedor{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+	
+	}
+	
+	
+#bienvenidos article{
+	margin: 15px;
+	
+}
+
+#bienvenidos img{
+	width:100%;
+	max-width: 70%;
+}
+
+
+
+h4{
+	margin-bottom: 0px;
+	margin-top: 30px;
+	font-weight: lighter;
+}
+
+.promo img{
+	
+	
+	margin-top: 30px;
+}

@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+input, textarea{
+	
+	width: 90%;
+	margin-bottom: 20px;
+	font-size:12px;
+	
+
+	
+	}
+	
+	
+	
+textarea{
+	
+	height:100px;
+	
+}
+
+input{
+	
+	height:30px;
+}
+
+#boton{
+	
+	background: #323844;
+	color:white;
+	
+	
+}
+
+#boton:hover{
+	cursor:pointer;
+	
+}
